@@ -1,2 +1,2 @@
 npm i
-node <FN>
+node fileName in cmd
